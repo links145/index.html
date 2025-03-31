@@ -6,3 +6,9 @@
 div{
     margin: 25px;
 }
+@media screen and (max-width: 768px) {
+   img{
+    width: 50%;
+   }
+    
+}
